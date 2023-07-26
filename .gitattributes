@@ -1,2 +1,6 @@
 guiDoctor-github.zip filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+guiDoctor-github/** filter=lfs diff=lfs merge=lfs -text
+guiDoctor-github/**/* filter=lfs diff=lfs merge=lfs -text
+'/d/Vs[[:space:]]projects/final_gui_3/guiDoctor-github'/** filter=lfs diff=lfs merge=lfs -text
+/d/Vs[[:space:]]projects/final_gui_3/guiDoctor-github/** filter=lfs diff=lfs merge=lfs -text
